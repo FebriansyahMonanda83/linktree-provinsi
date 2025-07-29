@@ -63,7 +63,7 @@ header img {
   margin-bottom: 1rem;
   box-shadow: none !important;
   filter: none !important;
-  transform: translateX(-15px); /* geser ke kiri */
+  transform: translateX(-12px); /* geser ke kiri */
 }
 
 
