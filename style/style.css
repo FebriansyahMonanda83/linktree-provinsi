@@ -142,7 +142,9 @@ header h1 {
   transform: translateY(-2px);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
 }
-
+#buttons .btn:first-of-type {
+  margin-top: -40px; /* Naik 10px ke atas */
+}
 /* Footer */
 footer {
   font-family: inherit;
